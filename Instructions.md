@@ -2,6 +2,8 @@
 Protein "SEED" sequences are representative sequences of each protein from a specific family. Pairwise and multisequence alignments can be used to analyze sequence similarities between different proteins within the same family.  Biopython was used. This tool visualizes sequence alignments. 
 PLEASE NOTE: I am an amateur programmer, and this is my first post on github. Currently, the 2nd code "Full_pairwise_alignment_sequencing_tool.py" (3rd step) may have issues with repeated pairwise sequencing. 
 For a visual tutorial, please open the "TUTORIAL_pairwise_alignment_visualizing_tool.pdf" file. 
+Biopython download page: README.rst
+Please read LICENSE.rst
 
 # Using the program
 1. Select the Pfam entry of your protein of interest. Go to the “Alignment” tab, and from “Available alignments” select the “seed” alignment. Download the seed alignment in clustal2 format. The folder will likely be labelled .seed, however .ann files work with this program as well. 
