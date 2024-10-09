@@ -1,3 +1,9 @@
+#WARNING: only use this program if you wish to conduct a visual alignment for every sequence pair at once
+#This program may take time to finish running
+#This program will likely utilize a lot of processing power to finish
+#Using an output file for this program is strongly recommended, as real-time processing may crash the terminal
+#A .txt output file is recommended
+
 from Bio import AlignIO, pairwise2
 
 sto_file = r"C:\Users\Tania\Documents\Bioinformatics\Protein Bioinformatics\Pr Bio Labs\Neur_chan_memb.alignment.seed\Neur_chan_memb_SEED.sth"
