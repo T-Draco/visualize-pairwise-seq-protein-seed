@@ -1,8 +1,8 @@
 Biopython README
 =====================
 
-This module utilizes biopython. This module is intended for computational 
-molecular biology visualization of pairwise sequence alignments. 
+This module utilizes biopython. This module is intended for the 
+visualization of pairwise sequence alignments of Pfam SEED alignments. 
 This program was made for non-profit reasons. 
 
 The Biopython Project is an international association of developers of freely
