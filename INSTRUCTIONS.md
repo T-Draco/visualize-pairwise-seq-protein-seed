@@ -9,7 +9,7 @@ For a visual tutorial, please open the "TUTORIAL_pairwise_alignment_visualizing_
 Biopython download page: README.rst
 Please read LICENSE.rst
 
-# Using the Pairwise Tool
+# Using the Pairwise Tool ("pairwise_tool.py")
 1. Select the Pfam entry of your protein of interest. Go to the “Alignment” tab, and from “Available alignments” select the “seed” alignment. Download the seed alignment in clustal2 format. The folder will likely be labelled .seed, however .ann files work with this program as well. 
 2. To find the pairwise sequence alignment between 2 homologous sequences of your protein of interest, input your Pfam stockholm/clustal2 file into the Biopython pairwise package "pairwise_tool.py". This step can be repeated with different sequences of the protein of interest by editing the "alignment[0]" number. 
 
