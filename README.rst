@@ -1,4 +1,4 @@
-Biopython README
+visualize-pairwise-seq-protein-seed README
 =====================
 
 This module utilizes biopython, specifically the biopython AlignIO package. 
@@ -14,7 +14,7 @@ The Biopython package is an open source software. Please see the "LICENSE.rst"
 file provided by: <https://github.com/biopython/biopython/blob/master/LICENSE.rst>`
 for further details.
 
-Installation
+Installation of biopython
 ========================
 
     pip install biopython
