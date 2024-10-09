@@ -2,7 +2,7 @@
 Protein "SEED" sequences are representative amino acid sequences of each protein from a family. Pairwise alignments can be used to analyze sequence similarities between different proteins within the same family.  Biopython was used. This tool VISUALIZES sequence alignments. 
 
 For single pairwise sequence alignments, please use "pairwise_tool.py" 
-"pairwise_ALL_tool.py" is a full pairwise alignment tool, for performing a visualization with each and every SEED sequence. PLEASE READ THE WARNINGS before using this tool, as it requires a lot of processing power. 
+"pairwise_tool_ALL.py" is a full pairwise alignment tool, for performing a visualization with each and every SEED sequence. PLEASE READ THE WARNINGS before using this tool, as it requires a lot of processing power. 
 
 For a visual tutorial, please open the "TUTORIAL_pairwise_alignment_visualizing_tool.pdf" file. 
 
@@ -14,6 +14,6 @@ Please read LICENSE.rst
 2. To find the pairwise sequence alignment between 2 homologous sequences of your protein of interest, input your Pfam stockholm/clustal2 file into the Biopython pairwise package "pairwise_tool.py". This step can be repeated with different sequences of the protein of interest by editing the "alignment[0]" number. 
 
 # Using the Pairwise ALL Tool
-WARNING: This code requires a lot of processing power. Using an output .txt file is strongly recommended for this program. You can use the "pairwise_ALL_tool.py" code to conduct a sequence alignment between each and every sequence in the .seed file; however, this will take up a good bit of memory depending on the .seed or .ann file, a lot of computer processing power, and it may even crash your terminal. Running the code on a terminal may give you a bunch of random numbers; however, you can simply exit the terminal, and you should still have some, if not all pairwise sequences, analyzed on the output .txt file.
+WARNING: This code requires a lot of processing power. Using an output .txt file is strongly recommended for this program. You can use the "pairwise_tool_ALL.py" code to conduct a sequence alignment between each and every sequence in the .seed file; however, this will take up a good bit of memory depending on the .seed or .ann file, a lot of computer processing power, and it may even crash your terminal. Running the code on a terminal may give you a bunch of random numbers; however, you can simply exit the terminal, and you should still have some, if not all pairwise sequences, analyzed on the output .txt file.
 
 Copyright: This program utilizes Biopython, which is considered a free use package. This program is available for free use, and it was created for entirely non-profit reasons. 
