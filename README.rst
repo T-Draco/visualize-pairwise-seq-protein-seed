@@ -2,8 +2,9 @@ Biopython README
 =====================
 
 This module utilizes biopython, specifically the biopython AlignIO package. 
-This module is intended for the visualization of pairwise sequence alignments 
-of Pfam SEED alignments. This module was made for non-profit reasons. 
+This module is intended for the visualization of pairwise sequence alignments,
+and for finding the pairwise match score, of Pfam SEED alignments. 
+This module was made for non-profit reasons. 
 Improvement edits to this repository are highly encouraged.
 
 The Biopython Project is an international association of developers of freely
