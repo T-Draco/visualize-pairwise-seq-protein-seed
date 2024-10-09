@@ -1,5 +1,5 @@
 #WARNING: only use this program if you wish to conduct a visual alignment for every sequence pair at once
-#Disclaimer: I am not responsible for an computer crashes or problems which may arise from using this module which requires a large amount of processing power.
+#Disclaimer: I am not responsible for any computer crashes or problems which may arise from using this module which requires a large amount of processing power.
 #This program may take time to finish running
 #This program will likely utilize a lot of processing power to finish
 #Using an output file for this program is strongly recommended, as real-time processing may crash the terminal
