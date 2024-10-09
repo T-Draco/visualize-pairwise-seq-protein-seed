@@ -2,7 +2,8 @@ Biopython README
 =====================
 
 This module utilizes biopython. This module is intended for computational 
-molecular biology calculations. This program was made for non-profit reasons. 
+molecular biology visualization of pairwise sequence alignments. 
+This program was made for non-profit reasons. 
 
 The Biopython Project is an international association of developers of freely
 available Python tools for computational molecular biology.
