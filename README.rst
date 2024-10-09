@@ -5,6 +5,7 @@ Protein "SEED" sequences are representative amino acid sequences of each protein
 This module utilizes biopython, specifically the biopython AlignIO package. This module is intended for the visualization of pairwise sequence alignments, and for finding the pairwise match score, of Pfam SEED alignments. This module was made for non-profit reasons. Improvement edits to this repository are highly encouraged with proper source code citations and use of the GitHub branch function. 
 
 Disclaimer: please use the "pairwise_tool_ALL_seq.py" module with caution, as it utilizes a lot of processing power. 
+Disclaimer: complete accuracy is not guaranteed.
 
 The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
 
