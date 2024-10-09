@@ -1,7 +1,8 @@
 # visual-pairwise-seq-protein-seed
-Protein "SEED" sequences are representative sequences of each protein from a family. Pairwise alignments can be used to analyze sequence similarities between different proteins within the same family.  Biopython was used. This tool VISUALIZES sequence alignments. 
+Protein "SEED" sequences are representative amino acid sequences of each protein from a family. Pairwise alignments can be used to analyze sequence similarities between different proteins within the same family.  Biopython was used. This tool VISUALIZES sequence alignments. 
 
-For single pairwise sequence alignments, please use "pairwise_tool.py"
+For single pairwise sequence alignments, please use "pairwise_tool.py" 
+"FULL_pairwise_tool.py" is a full pairwise alignment tool, for performing a visualization with each and every SEED sequence. PLEASE READ THE WARNINGS before using this tool, as it requires a lot of processing power. 
 
 For a visual tutorial, please open the "TUTORIAL_pairwise_alignment_visualizing_tool.pdf" file. 
 
