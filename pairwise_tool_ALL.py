@@ -1,4 +1,5 @@
 #WARNING: only use this program if you wish to conduct a visual alignment for every sequence pair at once
+#Disclaimer: I am not responsible for an computer crashes or problems which may arise from using this module which requires a large amount of processing power.
 #This program may take time to finish running
 #This program will likely utilize a lot of processing power to finish
 #Using an output file for this program is strongly recommended, as real-time processing may crash the terminal
@@ -6,8 +7,8 @@
 
 from Bio import AlignIO, pairwise2
 
-sto_file = r"C:\Users\Tania\Documents\Bioinformatics\Protein Bioinformatics\Pr Bio Labs\Neur_chan_memb.alignment.seed\Neur_chan_memb_SEED.sth"
-output_file = r"C:\Users\Tania\Documents\Bio notepad reads\ncm_pairwise_alignments.txt"
+sto_file = #Insert you SEED file here
+output_file = #Insert your output .txt file here for pairwise alignments
 
 alignment = AlignIO.read(sto_file, "stockholm")
 
